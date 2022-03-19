@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#viewResult {
+    margin-left: 20px;
+}

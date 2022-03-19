@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    background-color: red;
+    text-align: center;
+}
+h3 {
+    background-color: green;
+    text-align: center;
+}
+h4 {
+    background-color: blue;
+    text-align: center;
+}
+h5 {
+    background-color: violet;
+    text-align: center;
+}
+h6 {
+    background-color: pink;
+    text-align: center;
+}
+
+.div1 {
+    background-color: yellowgreen;
+}
+
+.div2 {
+    background-color: aquamarine;
+}
+
+.div3 {
+    background-color: burlywood;
+    display: flex;
+}
+
+.subdiv1 {
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.subdiv2 {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
