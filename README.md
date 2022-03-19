@@ -1,6 +1,6 @@
 # LinkedIn
 
-- click [Álejandro González](https://www.linkedin.com/in/alejandro-gonzalez-santiago)
+- [Álejandro González](https://www.linkedin.com/in/alejandro-gonzalez-santiago)
 - [Jose Anonio Tovar](https://www.linkedin.com/in/jose-antonio-tovar-cabrera)
 - [Manuel Barzi](https://www.linkedin.com/in/manuelbarzi)
 - [Ventura Rodríguez](https://www.linkedin.com/in/ventura-rodríguez-255009199)
