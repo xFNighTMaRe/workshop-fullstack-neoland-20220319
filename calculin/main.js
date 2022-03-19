@@ -8,11 +8,11 @@ var buttonDiv = buttons[3]
 buttonSum.addEventListener('click', function() {
     var inputs = document.querySelectorAll('input')
     
-    var input1 = inputs[0];
-    var input2 = inputs[1];
+    var input1 = inputs[0]
+    var input2 = inputs[1]
     
-    var value1 = input1.value;
-    var value2 = input2.value;
+    var value1 = input1.value
+    var value2 = input2.value
     
     var viewResult = document.getElementById('viewResult') 
     viewResult.innerHTML = Number(value1) + Number(value2)
@@ -21,11 +21,11 @@ buttonSum.addEventListener('click', function() {
 buttonMinus.addEventListener('click', function() {
     var inputs = document.querySelectorAll('input')
     
-    var input1 = inputs[0];
-    var input2 = inputs[1];
+    var input1 = inputs[0]
+    var input2 = inputs[1]
     
-    var value1 = input1.value;
-    var value2 = input2.value;
+    var value1 = input1.value
+    var value2 = input2.value
     
     var viewResult = document.getElementById('viewResult') 
     viewResult.innerHTML = Number(value1) - Number(value2)
@@ -34,11 +34,11 @@ buttonMinus.addEventListener('click', function() {
 buttonMult.addEventListener('click', function() {
     var inputs = document.querySelectorAll('input')
     
-    var input1 = inputs[0];
-    var input2 = inputs[1];
+    var input1 = inputs[0]
+    var input2 = inputs[1]
     
-    var value1 = input1.value;
-    var value2 = input2.value;
+    var value1 = input1.value
+    var value2 = input2.value
     
     var viewResult = document.getElementById('viewResult') 
     viewResult.innerHTML = Number(value1) * Number(value2)
@@ -47,11 +47,11 @@ buttonMult.addEventListener('click', function() {
 buttonDiv.addEventListener('click', function() {
     var inputs = document.querySelectorAll('input')
     
-    var input1 = inputs[0];
-    var input2 = inputs[1];
+    var input1 = inputs[0]
+    var input2 = inputs[1]
     
-    var value1 = input1.value;
-    var value2 = input2.value;
+    var value1 = input1.value
+    var value2 = input2.value
     
     var viewResult = document.getElementById('viewResult') 
     viewResult.innerHTML = Number(value1) / Number(value2)
